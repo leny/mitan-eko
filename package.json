@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/leny/mitan-eko.git"
   },
-  "license": "WTFPL",
+  "license": "UNLICENSE",
   "bugs": {
     "url": "https://github.com/leny/mitan-eko/issues"
   },
