@@ -1,5 +1,7 @@
 # mitan-eko
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 > (really) simple log middleware for express
 
 * * *
